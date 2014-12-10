@@ -1,0 +1,3 @@
+function game(){
+	$("#begin").hide();
+}
